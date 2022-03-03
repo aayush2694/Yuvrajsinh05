@@ -25,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=Yuvrajsinh05&theme=react-dark&area=true)
 <!--
-**Yuvrajsinh/Yuvrajsinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yuvrajsinh05/Yuvrajsinh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
